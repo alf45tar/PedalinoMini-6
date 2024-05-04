@@ -22,7 +22,7 @@ Quantity|Description|Version|Link|Price (USD)
 1|Mini Switch SPST|KCD11 10x15mm|[Link](https://www.aliexpress.com/item/1005004533086891.html)|1
 2|6.35mm Stereo Socket Panel Mount|PJ-612A|[Link](https://www.aliexpress.com/item/1005003631337479.html)|2
 4 m|Wire AWG24|AWG24||2
-4|M3 Hex Socket Cap Screw 12 mm|M3x10||0.4
+4|M3 Hex Socket Cap Screw 10 mm|M3x10||0.4
 |||||----------
 ||||Total|59.40
 
