@@ -13,7 +13,7 @@ PedalinoMini™ 6 operates seamlessly with its 6 footswitches, featuring a big 1
 
 Quantity|Description|Version|Link|Price (USD)
 :------:|-----------|-------|----|-----:
-1|PedalinoMini™ 6 [STL files](https://github.com/pedalino-sponsors/PedalinoMini-6)||[Link](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=392063&preview=false)|12
+1|PedalinoMini™ 6 [STL files](https://github.com/pedalino-sponsors/PedalinoMini-6)||[Link](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=398965&preview=false)|12
 150 g|3D printed case (minimum size of printing bed 250 mm)|PLA||6
 1|T-Display-S3|Soldered Pin [H577]|[Link](https://www.lilygo.cc/products/t-display-s3?variant=42351558590645)|15
 1|T-Display TF Shield|Female Pin [H610]|[Link](https://www.lilygo.cc/products/t-display-tf-shied?variant=42729797025973)|3
@@ -24,7 +24,7 @@ Quantity|Description|Version|Link|Price (USD)
 4 m|Wire AWG24|AWG24||2
 4|M3 Hex Socket Cap Screw 12 mm|M3x10||0.4
 |||||----------
-||||Total|66.20
+||||Total|59.40
 
 # Wiring
 
