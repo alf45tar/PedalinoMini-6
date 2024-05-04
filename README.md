@@ -5,7 +5,7 @@
 
 PedalinoMini™ 6 operates seamlessly with its 6 footswitches, featuring a big 1.9" color display equipped with WiFi, Bluetooth, and USB MIDI capabilities. It is powered through a 18650 LiPo battery ensuring up to 12 hours of uninterrupted functionality.
 
-![](./images/PedalinoMini%208.jpg)
+![](./images/PedalinoMini%206.jpg)
 
 # Bill of Materials
 
