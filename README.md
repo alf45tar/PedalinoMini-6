@@ -28,7 +28,9 @@ Quantity|Description|Version|Link|Price (USD)
 
 # Wiring
 
-![](./images/PedalinoMini%206%20Wiring.jpg)
+![](./images/PedalinoMini%206%20Wiring%201.jpg)
+
+![](./images/PedalinoMini%206%20Wiring%202.jpg)
 
 # Exploded View
 
