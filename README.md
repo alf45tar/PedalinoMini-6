@@ -38,7 +38,9 @@ Quantity|Description|Version|Link|Price (USD)
 
 # Slicing Results
 
-![](./images/PedalinoMini%206%20Slicing%20Results.jpg)
+![](./images/PedalinoMini%206%20Slicing%201.jpg)
+
+![](./images/PedalinoMini%206%20Slicing%202.jpg)
 
 # Prototype
 
