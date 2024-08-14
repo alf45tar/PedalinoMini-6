@@ -14,7 +14,7 @@ PedalinoMini™ 6 operates seamlessly with its 6 footswitches, featuring a big 1
 Quantity|Description|Version|Link|Price (USD)
 :------:|-----------|-------|----|-----:
 1|PedalinoMini™ 6 [STL files](https://github.com/pedalino-sponsors/PedalinoMini-6)||[Link](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=398965&preview=false)|12
-140 g|3D printed case (minimum size of printing bed 250 mm)|PLA||5
+150 g|3D printed case (minimum size of printing bed 250 mm)|PLA||5
 1|T-Display-S3|Soldered Pin [H577]|[Link](https://www.lilygo.cc/products/t-display-s3?variant=42351558590645)|15
 1|T-Display TF Shield|Female Pin [H610]|[Link](https://www.lilygo.cc/products/t-display-tf-shied?variant=42729797025973)|3
 6|SPST Momentary Soft Touch Foot Switch||[Link](https://www.aliexpress.com/item/1005004646906063.html)|12
