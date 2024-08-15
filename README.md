@@ -28,6 +28,8 @@ Quantity|Description|Version|Link|Price (USD)
 
 # Wiring
 
+The current wiring requires firmware version 3.5.0 or above.
+
 ![](./images/PedalinoMini%206%20Wiring%201.jpg)
 
 ![](./images/PedalinoMini%206%20Wiring%202.jpg)
